@@ -376,15 +376,12 @@ There doesn't seem to be a strong association between launch price and the fract
 
 <!--- *****START HERE***** --->
 
-The initial exploration does indicate any strong associations between fraction of positive reviews and either the launch price or the number of reviews. The abundance of positive reviews in general could be an indicator that people is more willing to write positive reviews than negative comments. However, I think it still worth to evaluate if positive reviews are associated with other variables in particular:
+The initial exploration does indicate any strong associations between fraction of positive reviews and either the launch price or the number of reviews. The abundance of positive reviews in general could be an indicator that people is more willing to write positive reviews than negative comments. However, I think it still worth to evaluate other associations of the fraction of positive reviews:
 
--   Player count: single-player vs multi-player
-
--   Game genre
-
--   Game publisher / game developer
-
--   Length of comment
+1.  Is the proportion of positive comments associated with the player count of each game?
+2.  Does any video game genre have more positive comments?
+3.  Is the proportion of positive comments higher for specific game developers/publishers?
+4.  Do free to play games tend to have better reviews compared to high price-tag games?
 
 I think it would be interesting to test if there is any statistical association between those variables and fraction of positive comments.
 
