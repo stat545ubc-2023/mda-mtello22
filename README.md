@@ -15,3 +15,5 @@ This repository is structured in "Milestone folders", each folder has all the fi
 1.  Milestone.Rmd file: Contains the code necessary to perform the analysis and is structured in a report format so the code and plots are interpreted in the same place.
 
 2.  Milestone.md file: Contains the output from knitting the .Rmd file, this file is for visualization purposes only and it can be easily displayed on GitHub.
+
+Also this repo has an output folder. Containing processed data (.csv file) and a linear model (.RDS file) generated during Milestone 2
