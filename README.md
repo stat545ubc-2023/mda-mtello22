@@ -8,8 +8,7 @@ This repo contains all files to carry out the Mini Analysis Project from STAT-54
 
 -   Game publisher / game developer
 
--   Length of comment
-
+-   Game price
 This repository is structured in "Milestone folders", each folder has all the files associated with the corresponding milestone. At least, each folder contains the following files:
 
 1.  Milestone.Rmd file: Contains the code necessary to perform the analysis and is structured in a report format so the code and plots are interpreted in the same place.
